@@ -1,5 +1,5 @@
 
-##import DW from './dist'
+##import DW from './packages'
 
 ##Vue.use(DW)
 ##即可用下面的组件
