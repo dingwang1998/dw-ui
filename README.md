@@ -1,8 +1,7 @@
 
-##import DW from './packages'
+## import DW from './packages'
 
-##Vue.use(DW)
-##即可用下面的组件
+## Vue.use(DW)即可用下面的组件
 ```html
 <template>
   <div id="app">
